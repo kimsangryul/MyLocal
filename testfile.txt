@@ -1,2 +1,6 @@
 hangle da ggeajinda
+<<<<<<< HEAD
 revert
+=======
+resetganda
+>>>>>>> parent of 4c3ee53... q
